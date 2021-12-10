@@ -1,0 +1,177 @@
+body {
+    background-color: black;
+  }
+  
+  .heading {
+    background-color:Red;
+    width:auto;
+    text-align:center;
+    color:rgb(0, 0, 0);
+    font-family: 
+      'Anton', sans-serif; 
+    
+  }
+  .subheading {
+      text-align:center;
+    color:rgb(255, 255, 255);
+    font-family: 
+      'Anton', sans-serif;
+    }
+  
+  .subheading2{
+    text-align:center;
+    color:rgb(255, 255, 255);
+    font-family: 
+      'Anton', sans-serif;
+  }
+  
+  .image1{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;  
+  }
+  
+  .description {
+    text-align:center;
+    color:rgb(255, 255, 255);
+    font-family: 'Merriweather', serif;
+  }
+  
+  .running{
+    text-align:center;
+    color:rgb(255, 0, 0);
+    font-family: 
+      'Anton', sans-serif;
+    font-weight: Bold;
+  }
+  
+  .description1{
+    text-align:center;
+    color:rgb(255, 255, 255);
+    font-family: 'Merriweather', serif;
+    font-weight: normal;
+  }
+  
+  .image2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+  
+  .strafe{
+    text-align:center;
+    color:rgb(255, 0, 0);
+    font-family: 
+      'Anton', sans-serif;
+    font-weight: Bold;
+  }
+  
+  .description2{
+    text-align:center;
+    color:rgb(255, 255, 255);
+    font-family: 'Merriweather', serif;
+  }
+  
+  #video1{
+    text-align:center;
+    width:100%;
+  }
+  
+  .crosshair{
+    text-align:center;
+    color:rgb(255, 0, 0);
+    font-family: 
+      'Anton', sans-serif;
+    font-weight: Bold;
+  }
+  
+  .description3{
+    text-align:center;
+    color:rgb(255, 255, 255);
+    font-family: 'Merriweather', serif;
+    font-weight: normal;
+  }
+  
+  .preaim{
+    text-align:center;
+    color:rgb(255, 0, 0);
+    font-family: 
+      'Anton', sans-serif;
+    font-weight: Bold;
+  }
+  
+  .description4{
+    text-align:center;
+    color:rgb(255, 255, 255);
+    font-family: 'Merriweather', serif;
+    font-weight: normal;
+  }
+  
+  .practice{
+    text-align:center;
+    color:rgb(255, 0, 0);
+    font-family: 
+      'Anton', sans-serif;
+    font-weight: Bold;
+  }
+  
+  .description5{
+    text-align:center;
+    color:rgb(255, 255, 255);
+    font-family: 'Merriweather', serif;
+    font-weight: normal;
+  }
+  
+  #video2{
+    text-align:center;
+    width:100%;
+  }
+  
+  #video3{
+    text-align:center;
+    width:100%;
+  }
+  
+  .watch{
+    text-align:center;
+    color:rgb(255, 0, 0);
+    font-family: 
+      'Anton', sans-serif;
+    font-weight: Bold;
+  }
+  
+  .description6{
+    text-align:center;
+    color:rgb(255, 255, 255);
+    font-family: 'Merriweather', serif;
+    font-weight: normal;
+  }
+  
+  .list{
+    text-align:center;
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+    font-family: 'Merriweather', serif;
+    font-weight: Bold;
+  }
+
+  .button {
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  }
+
+  .button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
